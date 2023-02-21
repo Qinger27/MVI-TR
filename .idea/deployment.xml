@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="10.13.63.105">
+    <serverData>
+      <paths name="10.13.63.105">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wq/wangqing" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="hpc@10.115.10.129">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/hpc/users/wangqing/mviClass" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="hpc@10.115.10.129 (project level)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/hpc/users/wangqing/mviClass" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
